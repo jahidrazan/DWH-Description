@@ -10,6 +10,8 @@ This table lists down all the marketpetplaces for the Fixami products
 
 + **name**: name of the marketplace
 
+![marketplaces](http://full/path/to/img.jpg "VIEW of the marketplaces table")
+
 
 ### 2.marketplace_feeds
  
@@ -28,7 +30,7 @@ This table contains details of a marketplace (i.e- country, name, language)
 + **name**: name of the marketplace
 
 
-
+![marketplace_feeds](http://full/path/to/img.jpg "VIEW of the marketplace_feeds table")
 
 ### 3.marketplace_offers 
 
@@ -48,7 +50,7 @@ This table contains information regarding what products the customers can buy in
 + **currency**: currency of the marketplace
 
 
-
+![marketplace_offers](http://full/path/to/img.jpg "VIEW of the marketplace_offers table")
 
 ### 4.warehouses
 
@@ -61,3 +63,4 @@ This table contains the names of the warehouses
 
 + **name**: Full Name of a warehouse
 
+![warehouses](http://full/path/to/img.jpg "VIEW of the Warehouses table")
