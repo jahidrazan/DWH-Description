@@ -3,7 +3,7 @@
 
 ## 1. [Products and Stocks](link) 
 
-Describes the following of the tables: 
+Describes the following tables: 
 
             * api.products
             * api.product_stock
@@ -11,7 +11,7 @@ Describes the following of the tables:
 
 ## 2. [Product Information](link)
 
-* Describes the following of the tables:
+* Describes the following tables:
 
             * api.product_classifications
             * api.product_labels
@@ -21,7 +21,7 @@ Describes the following of the tables:
 
 ## 3. [Product offers and Cost](link)
 
-Describes the following tables of the tables of the *api* and *api_history* dataset: 
+Describes the following tables of the *api* and *api_history* dataset: 
 
             * api.product_offer_logs
             * api.product_offers
@@ -32,7 +32,7 @@ Describes the following tables of the tables of the *api* and *api_history* data
 
 ## 4. [Sales](link)
 
-Describes the following of the tables:
+Describes the following tables:
 
            * api.sales_orders
            * api.sales_order_lines 
@@ -40,7 +40,7 @@ Describes the following of the tables:
 
 ## 5. [Marketplace and Warehouses](https://github.com/jahidrazan/DWH-Description/blob/main/marketplace_warehouses.md)
 
-Describes the following of the tables:
+Describes the following tables:
 
             * api.marketplace_feeds
             * api.marketplace_offers
@@ -50,7 +50,7 @@ Describes the following of the tables:
 
 ## 6. [Suppliers](link)
 
-Describes the following of the tables:
+Describes the following tables:
 
             * api.suppliers_product_wish
             * api.suppliers
