@@ -38,7 +38,7 @@ Describes the following of the tables:
            * api.sales_order_lines 
 
 
-## 5. [Marketplace and Warehouses](link)
+## 5. [Marketplace and Warehouses](https://github.com/jahidrazan/DWH-Description/blob/main/marketplace_warehouses.md)
 
 Describes the following of the tables:
 
