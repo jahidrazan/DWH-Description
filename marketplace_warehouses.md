@@ -10,7 +10,7 @@ This table lists down all the marketpetplaces for the Fixami products
 
 + **name**: name of the marketplace
 
-![marketplaces](http://full/path/to/img.jpg "VIEW of the marketplaces table")
+![marketplaces](https://github.com/jahidrazan/DWH_pictures/blob/main/Warehouses.PNG "VIEW of the marketplaces table")
 
 
 ### 2.marketplace_feeds
