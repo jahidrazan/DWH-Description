@@ -11,6 +11,8 @@ This table lists down all the suppliers and their code name as tag
 
 + **name**: name of the supplier
 
+![suppliers](https://github.com/jahidrazan/DWH_pictures/blob/main/suppliers.PNG "VIEW of the suppliers table")
+
 
 ### 2.supplier_product_wish
  
@@ -30,3 +32,5 @@ This table contains the lead time quantities, safety stock and reorder_point for
 
 + **reorder_point**: This is the minimum amount of quantity we want to have for a specific product.
                      Reorder Point = Lead Time Demand + Safety Stock.
+                     
+ ![supplier_product_wish]https://github.com/jahidrazan/DWH_pictures/blob/main/supplier_product_wish.PNG "VIEW of the supplier_product_wish table")
