@@ -30,7 +30,7 @@ This table contains the lead time quantities, safety stock and reorder_point for
 
 + **safety_stock**: calculated using following the formula:  Service factor * Standard deviaton * (Sq root) Lead time
 
-+ **reorder_point**: This is the minimum amount of quantity we want to have for a specific product.
++ **reorder_point**: This is the minimum amount of quantity we want to have for a specific product at any given time based on the availbility factor.
                      Reorder Point = Lead Time Demand + Safety Stock.
                      
  ![supplier_product_wish](https://github.com/jahidrazan/DWH_pictures/blob/main/supplier_product_wish.PNG "VIEW of the supplier_product_wish table")
