@@ -48,7 +48,7 @@ Describes the following tables:
             * api.warehouses
 
 
-## 6. [Suppliers](link)
+## 6. [Suppliers Information](https://github.com/jahidrazan/DWH-Description/blob/main/suppliers_information.md)
 
 Describes the following tables:
 
