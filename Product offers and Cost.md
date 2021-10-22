@@ -48,9 +48,7 @@ This table lists the cost update of a product that was paid by fiaxmi to buy it
 
 + **updated_at**: the price paid by  update information 
 
-+ **price**: price paid 
-
-+ **tax**: tax paid by fixami for selling a specific proudct in a country
++ **price**: price paid by fixami for the product
 
 + **currency**: currency of transaction 
 
