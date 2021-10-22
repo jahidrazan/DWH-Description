@@ -19,7 +19,7 @@ Describes the following tables:
             * api.categories 
 
 
-## 3. [Product offers and Cost](link)
+## 3. [Product offers and Cost](https://github.com/jahidrazan/DWH-Description/blob/main/Product%20offers%20and%20Cost.md)
 
 Describes the following tables of the *api* and *api_history* dataset: 
 
