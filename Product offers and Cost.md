@@ -17,6 +17,7 @@ This table lists the product_id and the price information at which the product i
 
 + **currency**: currency of transaction 
 
+![product_offers](https://github.com/jahidrazan/DWH_pictures/blob/main/api.product_offers.PNG "VIEW of the product_offers table")
 
 ### 2.api.product_offer_logs
 
@@ -36,7 +37,7 @@ This table lists the price update of a product in a specific country
 + **currency**: currency of transaction 
         
 
-
+![product_offer_logs](https://github.com/jahidrazan/DWH_pictures/blob/main/api.product_offer_logs.PNG "VIEW of the product_offer_logs table")
 
 ### 3.api.product_cost_logs
 
@@ -53,7 +54,7 @@ This table lists the cost update of a product that was paid by fiaxmi to buy it
 
 + **currency**: currency of transaction 
 
-
+![product_cost_logs](https://github.com/jahidrazan/DWH_pictures/blob/main/api.product_cost_logs.PNG "VIEW of the product_cost_logs table")
 
 ### 4.api.product_set_items
 
@@ -66,7 +67,7 @@ This table lists all the items sold as part of bundle
 
 + **quantity**: describes the composition of the bundle, how many child products are present within the bundle
 
-        
+![product_set_items](https://github.com/jahidrazan/DWH_pictures/blob/main/api.product_set_items.PNG "VIEW of the product_set_items table")       
 
 ### 5.api_history.product_offers
 
@@ -84,3 +85,5 @@ This table lists the history of the product pricing records at diffrent countrie
 + **tax**: tax paid by fixami for selling a specific proudct in a country
 
 + **currency**: currency of transaction 
+
+![api_history.product_offers](https://github.com/jahidrazan/DWH_pictures/blob/main/api_history.product_offers.PNG "VIEW of the api_history.product_offers table")
