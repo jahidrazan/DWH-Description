@@ -1,4 +1,4 @@
-# Data Analyst Nanodegree: Projects Overview
+# Fixami Datwarehouse in BigQuery: Table Overview
 
 
 ## 1. [Products and Stocks](link) 
