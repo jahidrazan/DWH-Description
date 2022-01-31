@@ -34,7 +34,7 @@ This table contains details of a marketplace (i.e- country, name, language)
 
 ### 3.marketplace_offers 
 
-This table contains information regarding what products the customers can buy in a marketplace: lists the product id, price, tax and currency in the marketplace. 
+This table contains information regarding what products the customers can buy in a marketplace: lists the product id, whether the product is active or not in a marketplace feed, the price, tax and currency in the marketplace. 
 
 
 + **marketplace_feed_id**: id of marketplace
