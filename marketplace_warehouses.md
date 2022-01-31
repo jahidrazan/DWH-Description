@@ -23,7 +23,7 @@ This table contains details of a marketplace (i.e- country, name, language)
 
 + **locale**: combination of language and country 
 
-+ **language**: lnaguage of the marketplace
++ **language**: language of the marketplace
 
 + **country**: country of the marketplace
 
